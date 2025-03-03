@@ -1,4 +1,4 @@
-To-Do List App (Java, MySQL, File Handling)
+### To-Do List App (Java, MySQL, File Handling)
 A simple To-Do List application built using Java, featuring MySQL database integration and file handling for persistent storage. Users can add, view, mark as completed, and remove tasks through a command-line interface.
 
 📌 Features
